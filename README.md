@@ -1,4 +1,5 @@
 This Project is combined by two papers.
+For my Bachelor's degree project
 
 
 [1]Zhou, Hantao, Rui Yang, Yachao Zhang, Haoran Duan, Yawen Huang, Runze Hu, 
